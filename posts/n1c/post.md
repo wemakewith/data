@@ -1,3 +1,7 @@
+---
+published_at: '2018-10-01'
+---
+
 # Nic
 
 Hey I’m Nic, software developer by day and creator of [wemakewith.com](https://wemakewith.com) by night.

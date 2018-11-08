@@ -6,7 +6,7 @@ I find a lot of inspiration from seeing how other developers and designers work.
 
 ## Editor
 
-I use [PHPStorm](https://www.jetbrains.com/phpstorm) as my main editor and I use [Visual Studio Code](https://code.visualstudio.com/) as my secondary editor. For PHPStorm I use a tweaked version of the [Zeus theme](http://www.phpstorm-themes.com/theme/zeus) with [Source code pro for powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro) as the font and lots of line spacing:  
+I use [PHPStorm](https://www.jetbrains.com/phpstorm) as my main editor and I use [Visual Studio Code](https://code.visualstudio.com/) as my secondary editor. For PHPStorm I use a tweaked version of the [Zeus theme](http://www.phpstorm-themes.com/theme/zeus) with [Source code pro for powerline](https://github.com/powerline/fonts/tree/master/SourceCodePro) as the font and lots of line spacing:
 
     font-size: 15
     line-spacing: 1.9
