@@ -1,3 +1,8 @@
+---
+title: Taylor Otwell
+published_at: '2018-10-15'
+---
+
 # Taylor Otwell How I Work (October 2018 Edition)
 
 I’ve seen a [few](https://christoph-rumpel.com/2018/10/my-current-setup-in-2018) [people](https://medium.com/@freekmurze/my-current-setup-2018-edition-700687fbc838) share their work setups / processes lately, so I thought I would do the same!

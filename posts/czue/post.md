@@ -1,3 +1,8 @@
+---
+title: Cory Zue
+published_at: '2018-11-05'
+---
+
 # Cory Zue
 
 Hi I'm Cory Zue and I'm a full stack software developer, maker, and aspiring entrepreneur. I'm most known for documenting the development of [Place Card Me](https://www.placecard.me/), a side-project I've managed to monetize to about $1500 / month in revenue. In the last year, I've built and launched [many other projects](http://www.coryzue.com/projects/). I also work part time for [an awesome social enterprise called Dimagi](https://dimagi.com/) where I served as CTO from 2006-2017, and do a splash of freelance consulting.

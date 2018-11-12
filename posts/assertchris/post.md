@@ -1,3 +1,8 @@
+---
+title: Christopher Pitt
+published_at: '2018-10-08'
+---
+
 # Christopher Pitt, my setup
 
 I’m an indefatigable experimenter. If you’ve heard of me, at all, it’s probably because of some way-out-there conference talk or tutorial. I’ve been programming in PHP and Javascript for roughly a decade.

@@ -1,3 +1,8 @@
+---
+title: Etienne Marais
+published_at: '2018-10-29'
+---
+
 # Etienne Marais
 
 I find a lot of inspiration from seeing how other developers and designers work. Borrowing from the way they setup their environment gives an interesting flair to the way I work but also being able to tweak that makes me feel great. I am a Full-Stack web developer and this is what I use to build applications using Laravel/VueJS and Docker.

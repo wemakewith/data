@@ -1,3 +1,8 @@
+---
+title: Freek Van der Herten
+published_at: '2018-10-22'
+---
+
 # Freek Van der Herten My current setup (2018 edition)
 
 After tweeting out a screenshot, it often get questions around [which editor](https://twitter.com/bashgeek/status/1053559280035491840), font or color scheme I’m using. Instead of replying to those questions individually I’ve decided to just write down the settings and apps that I’m using.
