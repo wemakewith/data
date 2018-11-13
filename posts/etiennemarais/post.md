@@ -7,7 +7,7 @@ published_at: '2018-10-29'
 
 I find a lot of inspiration from seeing how other developers and designers work. Borrowing from the way they setup their environment gives an interesting flair to the way I work but also being able to tweak that makes me feel great. I am a Full-Stack web developer and this is what I use to build applications using Laravel/VueJS and Docker.
 
-![My Desk](images/desk.png)
+![My Desk](images/desk.jpg)
 
 ## Editor
 
@@ -72,7 +72,7 @@ I run:
 
 ![About](images/about.png)
 
-![My desktop](images/mac.png)
+![My desktop](images/mac.jpg)
 
 ### Communication
 
