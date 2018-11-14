@@ -101,10 +101,6 @@ Callback hell... solution colourize the matching brackets.
 ext install CoenraadS.bracket-pair-colorizer
 ```
 
-```bash
-ext install WakaTime.vscode-wakatime
-```
-
 ## Communication
 
 * [Mailspring](https://getmailspring.com/)
