@@ -1,25 +1,24 @@
 ---
 title: Mannuel Ferreira
-published_at: '2018-10-22'
+published_at: '2018-11-14'
 ---
 
 # Mannuel Ferreira, my setup
 
-What's up world! I'm a Software Engineer, specialist on the front end. I enjoy writing JavaScript, PHP, HTML5, CSS. I recently picked up Python enjoying that too. 
-
-Thought I'd take some time out to share my setup. I'm a Linux fan, I dig upgrading it, hacking on it, the challenge of fixing it... which to be honest is not that often these days on 18.04.
-
-![MyMachine](images/desk.jpg)
+What's up world! I'm a Software Engineer, specialist on the front end. I enjoy writing JavaScript, PHP, HTML5, SASS. I recently picked up Python enjoying that too. 
 
 # Hardware
 
+Thought I'd take some time out to share my setup. I'm a Linux fan, I dig upgrading it, hacking on it, the challenge of fixing it... which to be honest is not that often these days on 18.04.
+
 I hack on a red Toshiba Satellite c850 =>
 
+![MyMachine](images/desk.jpg)
 ![MyMachine](images/machine.png)
 [Neofetch](https://github.com/dylanaraps/neofetch) cool cli tool spits out your system details as above.
 
 ### Upgrades
-You gotta buy more RAM so ran out and bought 16BG on day one of purchasing this machine. I recently upgraded the HDD to a HP 240 GB SSD, life changing move so much speed. I use a Samsung 24 inch Screen does the job.
+You always gotta buy more RAM, so ran out and bought 16BG on day one of purchasing this machine. I recently upgraded the HDD to a HP 240 GB SSD, life changing move so much speed. I use a Samsung 24 inch Screen does the job.
 
 # Software
 
