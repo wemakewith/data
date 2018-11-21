@@ -1,9 +1,8 @@
 ---
 title: Taylor Otwell
 published_at: '2018-10-15'
+canonical: https://medium.com/@taylorotwell/how-i-work-october-2018-edition-e66a09931e7f
 ---
-
-> Originally posted by [Taylor](https://medium.com/@taylorotwell/how-i-work-october-2018-edition-e66a09931e7f) on medium.
 
 # Taylor Otwell How I Work (October 2018 Edition)
 

@@ -1,9 +1,8 @@
 ---
 title: Freek Van der Herten
 published_at: '2018-10-22'
+canonical: https://medium.com/@freekmurze/my-current-setup-2018-edition-700687fbc838
 ---
-
-> Originally posted by [Freek](https://medium.com/@freekmurze/my-current-setup-2018-edition-700687fbc838) on medium.
 
 # Freek Van der Herten My current setup (2018 edition)
 
