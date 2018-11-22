@@ -116,4 +116,4 @@ Midday-ish I like to get out and either surf/run/walk to shop. I return, chow lu
 
 We then make food and are probably sleeping by 10pm. I used to work late but don't really want to anymore.
 
-Nothing to exciting but this setup allows me to output a healthy 10hrs of work a day while bagging 8hrs sleep :)
+Nothing too exciting but this setup allows me to output a healthy 10hrs of work a day while bagging 8hrs sleep :)
