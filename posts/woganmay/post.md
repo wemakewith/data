@@ -25,7 +25,7 @@ The day I moved in I decided I absolutely had to decorate the walls - having stu
 
 ![The Macbook](images/mac.jpg)
 
-I typically travel into Cape Town every 4-6 weeks for work, which is when the MBP gets the most use. It's a reliable workhorse - despite five years of upgrades it's stil able to holds its own. On a typical trip I mostly use it to take notes, fix urgent bugs and take calls. It never goes anywhere without a Rain LTE dongle!
+I typically travel into Cape Town every 4-6 weeks for work, which is when the MBP gets the most use. It's a reliable workhorse - despite five years of upgrades it's stil able to hold its own. On a typical trip I mostly use it to take notes, fix urgent bugs and take calls. It never goes anywhere without a Rain LTE dongle!
 
 ## The main machine
 
@@ -59,6 +59,7 @@ A typical project will include Laravel, [AdminLTE](https://adminlte.io/) (a fant
 There's a lot that goes into making everything work. I typically spend around R2500/month on hosting, domains, various subscriptions and services.
 
 Services:
+
 * [DigitalOcean](https://www.digitalocean.com) for hosting production and customer-facing applications
 * [Vultr](https://www.vultr.com) for hosting personal projects on dirt-cheap servers.
 * [Laravel Forge](https://forge.laravel.com) for server management and simple deploys
